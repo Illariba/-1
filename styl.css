@@ -1,0 +1,123 @@
+body
+{
+	background:/*#a3a3a3*/ #bde1ff;
+}
+.Hea
+{
+	background-color: blue;
+	height: 100px;
+	margin-bottom: 10px;
+} 
+
+.Cant
+{
+	background: /*blue*/ #008eff9c;
+	min-height: 1000px;
+	margin-bottom: 10px;
+	float: left;
+	width: 61.5%;
+
+}
+
+.sider
+{
+	background: /*blue*/ #2196f3;
+	float: left;
+	min-height: 1000px;
+	width: 18%;
+	margin-left: 14px;
+}
+
+.row:after
+{
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.row { display: inline-block; }
+* html .row { height: 1%; }
+.row { display: block; }
+
+.flot
+{
+	background: blue;
+	height: 300px;
+	margin-top: 10px;
+}
+
+.sied
+{
+	background: /*blue*/ #2196f3;
+	float: left;
+	min-height: 1000px;
+	width: 18%;
+	margin-right: 14px;
+}
+
+.Info
+{
+	font-size: 35px;
+	transform:translate(40px,30px);
+	color: grey;
+}
+
+.List
+{
+	font-size: 15px;
+	transform:translate(40px,50px);
+	color: yellow;
+}
+
+.P1br
+{
+	font-size: 15px;
+	transform:translate(40px,51px);
+	color: orange;
+}
+
+.New
+{
+	font-size: 15px;
+	transform:translate(40px,53px);
+	color: orange;
+}
+
+.Siote
+{
+	font-size: 40px;
+	transform:translate(40px,69px);
+	color: orange;
+}
+
+.png
+{
+	transform:translate(50px,15px);
+}
+
+.Updata
+{
+	color: red;
+	transform:translate(350px, 30px);
+	font-size: 45px;
+}
+
+.colse
+{
+	color: blue;
+	font-size: 19px;
+	transform:translate(50px, 40px);
+	font-family:;
+}
+
+.panel
+{
+	background:#2195ff;
+	float: left;
+	width: 90%;
+	margin-top;
+	min-height: 400px;
+	transform:translate(50px, 60px);
+}
